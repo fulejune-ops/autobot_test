@@ -42,7 +42,7 @@ pip install -r requirements.txt
 
 Репозиторій проєкту: https://github.com/fulejune-ops/autobot_test.git
 
-Головна Google Таблиця (Логи): https://docs.google.com/spreadsheets/d/17EYbIp3wBcgmx7i-aQ_ze9TUCUbQZ9o1LOWOEloAIYM/edit
+Головна Google Таблиця (Логи в самому низу): https://docs.google.com/spreadsheets/d/17EYbIp3wBcgmx7i-aQ_ze9TUCUbQZ9o1LOWOEloAIYM/edit
 
 Папка Drive "Audio" (Вхідні): https://drive.google.com/drive/folders/10Brinmcm6hRn4SszQj4D7LqiFbtnjvPS?hl=ru
 
